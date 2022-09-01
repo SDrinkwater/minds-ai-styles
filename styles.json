@@ -1,0 +1,92 @@
+[
+  {
+    "id": "photo",
+    "title": "Photo",
+    "img": "",
+    "credit": "Photo by Casey Horner on Unsplash"
+  },
+  {
+    "id": "landscape",
+    "title": "Landscape",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "fantasy",
+    "title": "Fantasy",
+    "img": "",
+    "credit": "Photo by Alice Alinari on Unsplash"
+  },
+  {
+    "id": "cyberpunk",
+    "title": "Cyberpunk",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "anime",
+    "title": "Anime",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "propaganda_poster",
+    "title": "Propaganda Poster",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "pop_art",
+    "title": "Pop Art",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "vaporwave",
+    "title": "Vaporwave",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "hotwheels",
+    "title": "Hotwheels",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "photo_black_and_white",
+    "title": "Black and White Photo",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "tokyo",
+    "title": "Tokyo",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "art_class",
+    "title": "Art Class",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "sculpture",
+    "title": "Sculpture",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "spooky",
+    "title": "Spooky",
+    "img": "",
+    "credit": ""
+  },
+  {
+    "id": "steampunk",
+    "title": "Steampunk",
+    "img": "",
+    "credit": ""
+  }
+]
