@@ -2,91 +2,127 @@
   {
     "id": "photo",
     "title": "Photo",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/75_s8iWHKLs/300x300",
     "credit": "Photo by Casey Horner on Unsplash"
   },
   {
     "id": "landscape",
     "title": "Landscape",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/-qrcOR33ErA/300x300",
+    "credit": "Photo by Hendrik Cornelissen on Unsplash"
   },
   {
     "id": "fantasy",
     "title": "Fantasy",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/apYiDRNa-pY/300x300",
     "credit": "Photo by Alice Alinari on Unsplash"
   },
   {
     "id": "cyberpunk",
     "title": "Cyberpunk",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/Lme2Ye2jVo8/300x300",
     "credit": ""
   },
   {
     "id": "anime",
     "title": "Anime",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
     "credit": ""
   },
   {
     "id": "propaganda_poster",
     "title": "Propaganda Poster",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/zvL4T3Pum0g/300x300",
+    "credit": "By Library of Congress on Unsplash"
   },
   {
     "id": "pop_art",
     "title": "Pop Art",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
     "credit": ""
   },
   {
     "id": "vaporwave",
     "title": "Vaporwave",
-    "img": "",
+    "type": "remote",
+    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
     "credit": ""
+  },
+  {
+    "id": "psychedelic",
+    "title": "Psychedelic",
+    "type": "remote",
+    "img": "https://source.unsplash.com/p203ekCK4Ac/300x300",
+    "credit": "Photo by Alexander Grey on Unsplash"
   },
   {
     "id": "hotwheels",
     "title": "Hotwheels",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/r795DQBPyMA/300x300",
+    "credit": "Photo by Vladimir Kozhevnikov on Unsplash"
   },
   {
     "id": "photo_black_and_white",
     "title": "Black and White Photo",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/D14VNyYE160/300x300",
+    "credit": "Photo by Jacob Mejicanos on Unsplash"
   },
   {
     "id": "tokyo",
     "title": "Tokyo",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/4CMq1GxDSPA/300x300",
+    "credit": "Photo by Derch on Unsplash"
+  },
+  {
+    "id": "paper_craft",
+    "title": "Paper Craft",
+    "type": "remote",
+    "img": "https://source.unsplash.com/kI1iR7l55FM/300x300",
+    "credit": "Photo by KOBU Agency on Unsplash"
+  },
+  {
+    "id": "smokebomb",
+    "title": "Smokebomb",
+    "type": "remote",
+    "img": "https://source.unsplash.com/wlIB1M8YTnY/300x300",
+    "credit": "Photo by Jason Blackeye on Unsplash"
   },
   {
     "id": "art_class",
     "title": "Art Class",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/xw8DfYBaNbQ/300x300",
+    "credit": "Photo by Elena Mozhvilo on Unsplash"
   },
   {
     "id": "sculpture",
     "title": "Sculpture",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/VJnqcHs2rhY/300x300",
+    "credit": "Photo by Jianxiang Wu on Unsplash"
   },
   {
     "id": "spooky",
     "title": "Spooky",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/rXjSnBx8Kuc/300x300",
+    "credit": "Photo by Jon Butterworth on Unsplash"
   },
   {
     "id": "steampunk",
     "title": "Steampunk",
-    "img": "",
-    "credit": ""
+    "type": "remote",
+    "img": "https://source.unsplash.com/r-UaSYUqF9o/300x300",
+    "credit": "Photo by Lucas Santos on Unsplash"
   }
 ]
