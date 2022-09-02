@@ -2,7 +2,7 @@
   {
     "id": "photo",
     "title": "Photo",
-    "img": "https://source.unsplash.com/75_s8iWHKLs/300x300",
+    "img": "https://source.unsplash.com/u3L8vqsywqQ/300x300",
     "credit": "Photo by Casey Horner on Unsplash"
   },
   {
@@ -18,16 +18,22 @@
     "credit": "Photo by Alice Alinari on Unsplash"
   },
   {
+    "id": "digital_art",
+    "title": "Digital Art",
+    "img": "https://source.unsplash.com/ynmPY1MLwMs-pY/300x300",
+    "credit": "Photo by SIMON LEE on Unsplash"
+  },
+  {
     "id": "cyberpunk",
     "title": "Cyberpunk",
     "img": "https://source.unsplash.com/Lme2Ye2jVo8/300x300",
-    "credit": ""
+    "credit": "Photo by Wilmer Martinez on Unsplash"
   },
   {
     "id": "anime",
-    "title": "Anime",
-    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
-    "credit": ""
+    "title": "Animated",
+    "img": "https://source.unsplash.com/K-sdQ12jZeY/300x300",
+    "credit": "Photo by aldi sigun on Unsplash"
   },
   {
     "id": "propaganda_poster",
@@ -38,14 +44,14 @@
   {
     "id": "pop_art",
     "title": "Pop Art",
-    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
-    "credit": ""
+    "img": "https://source.unsplash.com/wlxJ4idMTUk/300x300",
+    "credit": "Photo by Enzo Tommasi on Unsplash"
   },
   {
     "id": "vaporwave",
     "title": "Vaporwave",
-    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
-    "credit": ""
+    "img": "https://source.unsplash.com/9XngoIpxcEo/300x300",
+    "credit": "Photo by Jr Korpa on Unsplash"
   },
   {
     "id": "psychedelic",
