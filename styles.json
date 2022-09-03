@@ -36,6 +36,12 @@
     "credit": "Photo by aldi sigun on Unsplash"
   },
   {
+    "id": "poster",
+    "title": "Poster",
+    "img": "https://source.unsplash.com/yulPpoFBNg4/300x300",
+    "credit": "Photo by Jon Tyson on Unsplash"
+  },
+  {
     "id": "propaganda_poster",
     "title": "Propaganda Poster",
     "img": "https://source.unsplash.com/zvL4T3Pum0g/300x300",
@@ -80,8 +86,20 @@
   {
     "id": "tokyo",
     "title": "Tokyo",
+    "img": "https://source.unsplash.com/layMbSJ3YOE/300x300",
+    "credit": "Photo by Jezael Melgoza on Unsplash"
+  },
+  {
+    "id": "tokyo_dark",
+    "title": "Tokyo Dark",
     "img": "https://source.unsplash.com/4CMq1GxDSPA/300x300",
     "credit": "Photo by Derch on Unsplash"
+  },
+  {
+    "id": "neon_rain",
+    "title": "Neon Rain",
+    "img": "https://source.unsplash.com/yVUQlyRlJSw/300x300",
+    "credit": "Photo by Valentin BEAUVAIS on Unsplash"
   },
   {
     "id": "paper_craft",
