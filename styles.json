@@ -1,11 +1,5 @@
 [
   {
-    "id": "photo",
-    "title": "Photo",
-    "img": "https://source.unsplash.com/u3L8vqsywqQ/300x300",
-    "credit": "Photo by Casey Horner on Unsplash"
-  },
-  {
     "id": "landscape",
     "title": "Landscape",
     "img": "https://source.unsplash.com/-qrcOR33ErA/300x300",
@@ -64,6 +58,12 @@
     "title": "Psychedelic",
     "img": "https://source.unsplash.com/p203ekCK4Ac/300x300",
     "credit": "Photo by Alexander Grey on Unsplash"
+  },
+  {
+    "id": "photo",
+    "title": "Photo",
+    "img": "https://source.unsplash.com/u3L8vqsywqQ/300x300",
+    "credit": "Photo by Casey Horner on Unsplash"
   },
   {
     "id": "spooky",
