@@ -1,0 +1,50 @@
+[
+  {
+    id: 'island_storm',
+    title: 'A small island in a storm',
+  },
+  {
+    id: 'shack_hill',
+    title: 'Shack on the side of a hill',
+  },
+  {
+    id: 'temple_ocean',
+    title: 'Aztec temple in the middle of the ocean',
+  },
+  {
+    id: 'beautiful_sunset',
+    title: 'A beautiful sunset',
+  },
+  {
+    id: 'apples_pit',
+    title: 'A man falling into a pit full of apples',
+  },
+  {
+    id: 'sheep_nz',
+    title: 'Sheep in New Zealand',
+  },
+  {
+    id: 'cat_bath',
+    title: 'A cat in a bath',
+  },
+  {
+    id: 'astronaut_horse',
+    title: 'Astronaut riding a horse',
+  },
+  {
+    id: 'foggy_forest',
+    title: 'Foggy forest',
+  },
+  {
+    id: 'tower',
+    title: 'A tower',
+  },
+  {
+    id: 'futuristic_city',
+    title: 'Futuristic city',
+  },
+  {
+    id: 'hidden_village',
+    title: 'Hidden village',
+  },
+]
