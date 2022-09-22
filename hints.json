@@ -1,5 +1,21 @@
 [
   {
+    "id": "90s_computer",
+    "title": "A computer from the 90s"
+  },
+  {
+    "id": "abandoned_city",
+    "title": "An overgrown abandoned city"
+  },
+  {
+    "id": "abstract_forrest",
+    "title": "An abstract oil painting of a forrest"
+  },
+  {
+    "id": "futuristic_city",
+    "title": "Futuristic city"
+  },
+  {
     "id": "island_storm",
     "title": "A small island in a storm"
   },
@@ -38,10 +54,6 @@
   {
     "id": "tower",
     "title": "A tower"
-  },
-  {
-    "id": "futuristic_city",
-    "title": "Futuristic city"
   },
   {
     "id": "hidden_village",
