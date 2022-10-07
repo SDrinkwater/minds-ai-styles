@@ -1,7 +1,7 @@
 [
   {
     "id": "remove_ads_1_month",
-    "title": "Remove ads for 1 month TEST",
+    "title": "Remove ads for 1 month",
     "description": "Remove all ads for 1 month",
     "entitlement": "remove_ads",
     "durationSeconds": 2592000,
