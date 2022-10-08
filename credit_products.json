@@ -21,7 +21,7 @@
     "description": "Remove all content restrictions for 1 month",
     "entitlement": "remove_content_restrictions",
     "durationSeconds": 2592000,
-    "price": 390
+    "price": 220
   },
   {
     "id": "remove_content_restrictions_1_year",
