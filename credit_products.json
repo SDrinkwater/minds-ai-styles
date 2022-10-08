@@ -9,11 +9,11 @@
   },
   {
     "id": "remove_ads_1_year",
-    "title": "Remove ads for 1 month",
-    "description": "Remove all ads for 1 month",
+    "title": "Remove ads for 1 year",
+    "description": "Remove all ads for 1 year",
     "entitlement": "remove_ads",
     "durationSeconds": 31536000,
-    "price": 270
+    "price": 1890
   },
   {
     "id": "remove_content_restrictions_1_month",
