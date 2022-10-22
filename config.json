@@ -1,4 +1,5 @@
 {
     "fetch_styles": false,
-    "fetch_hints": true
+    "fetch_hints": true,
+    "poll_interval": 2000
 }
