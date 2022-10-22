@@ -1,5 +1,6 @@
 {
     "fetch_styles": false,
     "fetch_hints": true,
-    "poll_interval": 2000
+    "poll_interval": 2000,
+    "creation_cost": 1,
 }
